@@ -20,7 +20,7 @@ const Resume = () => {
       {/* Display PDF in iframe */}
       <div className="w-full h-[90vh] border rounded-lg shadow">
         <iframe
-          src="https://drive.google.com/file/d/1qGPJGd8qtX1ZOKUJ9TNJgykmr3_J2si-/view?usp=drive_link"
+          src="https://drive.google.com/file/d/1qGPJGd8qtX1ZOKUJ9TNJgykmr3_J2si-/preview"
           title="Resume PDF"
           className="w-full h-full"
           style={{border:"none"}}
