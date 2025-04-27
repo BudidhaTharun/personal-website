@@ -48,7 +48,7 @@ const Projects = () => {
                 <Github size={18} className="mr-1" />
                  Code
               </a>
-              <a href="https://campusfix.onrender.com/" className="text-blue-600 hover:text-blue-800 flex items-center">
+              <a href="https://campusfix-budidha-tharuns-projects.vercel.app" className="text-blue-600 hover:text-blue-800 flex items-center">
                 <ExternalLink size={18} className="mr-1" />
                 Live Demo
               </a>
